@@ -1,1 +1,3 @@
 # add-disconnect-wallet-functionality
+...
+# knowing-the-function
